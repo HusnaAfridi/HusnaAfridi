@@ -69,7 +69,7 @@ I'm developing practical projects to improve my backend development skills.
 ## 🎓 Education
 
 **BS Computer Science**  
-Virtual University of Pakistan | May 2026 – Present | Second Semester
+Virtual University of Pakistan | Jan 2026 – Present | Second Semester
 
 ---
 
